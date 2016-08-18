@@ -3,14 +3,14 @@ highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
+github: xiazhongzhu
 author: "夏中柱"
-email: winfirm#163.com
+email: xiazhongzhu1993#gmail.com
 name: "夏中柱个人博客"
 url: http://www.panxw.com
 domain: www.panxw.com
 all_categories: [
-["android", "Android开发","/posts/android.html"], 
+["android", "web开发","/posts/android.html"], 
 ["program", "软件编程","/posts/program.html"],
 ["web", "Web建站","/posts/web.html"], 
 ["linux", "Linux相关","/posts/linux.html"],
