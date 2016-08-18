@@ -7,10 +7,10 @@ github: xiazhongzhu
 author: "夏中柱"
 email: xiazhongzhu1993#gmail.com
 name: "夏中柱个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+url: http://xiazhongzhu.github.io
+domain: xiazhongzhu.github.io
 all_categories: [
-["android", "web开发","/posts/android.html"], 
+["android", "web开发","/posts/web.html"], 
 ["program", "软件编程","/posts/program.html"],
 ["web", "Web建站","/posts/web.html"], 
 ["linux", "Linux相关","/posts/linux.html"],
